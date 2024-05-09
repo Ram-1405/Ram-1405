@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Ram-1405
-- 👀 I’m interested in Java developer 
-- 🌱 I’m currently learning Java SpringBoot , angular js and Thymeleaf
-- 💞️ I’m looking to collaborate on  internship on Java development
-- 📫 How to reach me ramrk1405@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+@Ram-1405 
+Under training arc with following stack 
+MER(N) and Springboot.
