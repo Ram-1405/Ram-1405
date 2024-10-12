@@ -20,7 +20,7 @@ Here are some of the technologies I work with:
 ![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram-1405&show_icons=true&theme=radical)
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-1405&layout=compact&theme=radical)
+![Top Langs](https://github-Readme-stats.vercel.app/api/top-langs/?username=Ram-1405&layout=compact&theme=radical)
 
 ### Total Profile Views:
 ![Profile views](https://komarev.com/ghpvc/?username=Ram-1405&color=blue)
