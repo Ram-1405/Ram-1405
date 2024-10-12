@@ -21,8 +21,10 @@ Here are some of the technologies I work with:
 ### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-1405&layout=compact&theme=radical)
 
+
 ### Total Profile Views:
-![Profile views](https://gpvc.arturio.dev/Ram-1405)
+![Profile views](https://komarev.com/ghpvc/?username=Ram-1405&color=blue)
+
 
 ### Projects:
 Here are some of the projects I've worked on:
